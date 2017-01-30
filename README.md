@@ -1,7 +1,5 @@
-# Site for the Mood
+# Сайт-вдохновение
+Данный сайт предназначен для поднятия настроения. При каждом заходе пользователя он выдает по одной забавной фразе из списка. Список фраз находится в файле `js/load_joke.js` в переменной `jokes`.
+# Цели проекта
 
-[TODO. There will be project description]
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Данный сайт написан для образовательных целей. Учебный курс для веб-разработчиков - [DEVMAN.org](https://devman.org)
