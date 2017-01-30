@@ -1,0 +1,20 @@
+body{
+  background: #fff url('../images/background.jpg') fixed top left no-repeat;
+  background-size: 100% 100%;
+}
+#joke{
+  margin:7% auto;
+  width: 90vw;
+  font-weight: bold;
+}
+#text{
+  text-align: center;
+  font-size: 2vw;
+  color: #2C17B1;
+}
+#author{
+  padding-right: 10vw;
+  font-size: 1.5vw;
+  text-align: right;
+  color: #FF0000;
+}
