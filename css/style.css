@@ -27,7 +27,7 @@ body {
 }
 .author{
   position: relative;
-  margin-top: 25vh; 
+  top: 25vh; 
   font-weight: 500; 
   font-size: 2em;
   color: #FF0000;
